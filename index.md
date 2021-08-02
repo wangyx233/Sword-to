@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Sword-to ~~剑指S12~~
 
-You can use the [editor on GitHub](https://github.com/wangyx233/Sword-to/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+JS实现的简单的算法题，常见的手写题集合~
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**coding-interviews**
 
-### Markdown
+1、 * [剑指 Offer 03. 数组中重复的数字](https://github.com/wangyx233/Sword-to/blob/gh-pages/src/剑指 Offer 03. 数组中重复的数字.js)   更新于2020.11.18
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2、 * [剑指 Offer 05. 替换空格](https://github.com/wangyx233/Sword-to/blob/gh-pages/src/剑指 Offer 05. 替换空格.js)   更新于2020.11.18
 
-```markdown
-Syntax highlighted code block
+3、 * [剑指 Offer 13. 机器人的运动范围](https://github.com/wangyx233/Sword-to/blob/gh-pages/src/剑指 Offer 13. 机器人的运动范围.js)   更新于2020.11.18
 
-# Header 1
-## Header 2
-### Header 3
+4、 * [剑指 Offer 22. 链表中倒数第k个节点](https://github.com/wangyx233/Sword-to/blob/gh-pages/src/剑指 Offer 22. 链表中倒数第k个节点.js)   更新于2020.11.18
 
-- Bulleted
-- List
+5、 * [剑指 Offer 25. 合并两个排序的链表](https://github.com/wangyx233/Sword-to/blob/gh-pages/src/剑指 Offer 25. 合并两个排序的链表.js)   更新于2020.11.18
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wangyx233/Sword-to/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+6、 * [剑指 Offer 40. 最小的k个数](https://github.com/wangyx233/Sword-to/blob/gh-pages/src/剑指 Offer 40. 最小的k个数.js)   更新于2020.11.18
